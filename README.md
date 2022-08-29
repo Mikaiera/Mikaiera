@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mikaiera very much new to the world of IT/Computer Science
+- 👋 Hi, I’m @Mekayla very much new to the world of IT/Computer Science
 - 👀 I’m interested Videogames,Sketching ,hacking and game/software development
 - 🌱 I’m currently learning which language- Python and C
 - 💞️ I’m looking to collaborate on anything that can help me further my skills
