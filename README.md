@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mekayla very much new to the world of IT/Computer Science
 - 👀 I’m interested Videogames,Sketching ,hacking and game/software development
-- 🌱 I’m currently learning which language- Python and C
+- 🌱 I’m currently learning which language in college- Python, C , html/css , javascript and C#
 - 💞️ I’m looking to collaborate on anything that can help me further my skills
 - 📫 How to reach me microsoft : mmekayla05@outlook.com
 
