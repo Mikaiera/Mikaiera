@@ -6,6 +6,9 @@
 - 💻 **Currently learning the ropes of programming**  
   Tackling Python, C++, Java, JavaScript, and C# as I continue to grow my skills and understanding.
   
+- 🎓 **Currently studying for a BSc in Information Technology**  
+  Enhancing my knowledge and skills through academic coursework and practical projects.
+  
 - 🎶 **Aloof by nature**, but always in tune with good music and the thrill of creation.
 
 - 💡 **Collaboration is key**  
@@ -13,7 +16,7 @@
   
 - 🌱 **In the process of mastering**: algorithms, game mechanics, and problem-solving through code.  
   Every challenge is a step closer to mastery.
-  
+
 - 📫 **Let's connect**!  
   Reach me via [Microsoft](mailto:mmekayla05@outlook.com) or [Gmail](mailto:mekaylaxm@gmail.com).
 
