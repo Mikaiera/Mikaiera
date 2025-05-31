@@ -4,7 +4,7 @@
   I've been fascinated by technology and development ever since I was a kid, and now I'm finally taking steps into the industry I've always dreamed about.
   
 - 💻 **Currently learning the ropes of programming**  
-  Tackling Python, C++, Java, JavaScript, and C# as I continue to grow my skills and understanding.
+  Tackling Python, C, Java, JavaScript, and C# as I continue to grow my skills and understanding.
   
 - 🎓 **Currently studying for a BSc in Information Technology**  
   Enhancing my knowledge and skills through academic coursework and practical projects.
